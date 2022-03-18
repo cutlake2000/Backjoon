@@ -8,7 +8,7 @@ int main(){
     long room = 0, result = 0, check = 6;
 
     scanf("%ld", &room);
-    
+
     room -= 1;
     result++;
     
