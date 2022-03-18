@@ -10,7 +10,6 @@ long break_Even_point(long FC, long VC, long P){
     else{
         X = FC / (P - VC) + 1;
     }
-    
     return X;
 }
 
