@@ -1,3 +1,7 @@
 #include<stdio.h>
 
-int main(){ printf("GIT_TEST");}
+int main(){
+    
+    printf("GIT_TEST");
+
+}
