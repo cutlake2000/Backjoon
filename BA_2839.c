@@ -6,6 +6,7 @@
 
 int main(){
     int delivery = 0, count = 0;
+    
     scanf("%d", &delivery);
     
     while (1){
