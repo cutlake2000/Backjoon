@@ -16,10 +16,9 @@ long break_Even_point(long FC, long VC, long P){
 
 int main(){
     long A = 0, B = 0, C = 0;
-    
     scanf ("%ld", &A);
     scanf("%ld", &B);
     scanf("%ld", &C);
-    
+
     printf("%ld", break_Even_point(A, B, C));
 }
