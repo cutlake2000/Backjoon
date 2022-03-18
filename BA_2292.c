@@ -1,4 +1,5 @@
 // 백준 알고리즘 2292번
+// "벌집"
 // https://www.acmicpc.net/problem/2292
 
 #include <stdio.h>
