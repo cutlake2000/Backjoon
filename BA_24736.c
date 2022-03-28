@@ -1,4 +1,4 @@
-// 백준 24736반
+// 백준 24736번
 // 'Football Scoring'
 // https://www.acmicpc.net/problem/24736
 
