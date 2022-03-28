@@ -36,6 +36,7 @@ int main(){
     }
 
     result = (int*) malloc(sizeof(int) * result_Len);
+    
     if (result == NULL) exit(1);
     memset(result, 0, sizeof(int) * result_Len);
 
