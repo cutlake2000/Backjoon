@@ -1,3 +1,7 @@
+// 백준 23234번
+// 'The World Responds'
+// https://www.acmicpc.net/problem/23234
+
 #include<stdio.h>
 
 int main(){
