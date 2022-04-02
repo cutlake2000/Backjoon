@@ -2,6 +2,8 @@
 // '카드 게임'
 // https://www.acmicpc.net/problem/5522
 
+#include <stdio.h>
+
 int main(){
     int temp, result;
     temp = result = 0;
