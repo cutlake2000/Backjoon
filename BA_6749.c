@@ -2,6 +2,8 @@
 // 'Next in line'
 // https://www.acmicpc.net/problem/6749
 
+#include <stdio.h>
+
 int main(){
     int fn, sn;
     fn = sn = 0;
