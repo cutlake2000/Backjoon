@@ -2,7 +2,6 @@
  // 'Site Score'
  // https://www.acmicpc.net/problem/20254
 
-
  #include <stdio.h>
 
  int main(){
