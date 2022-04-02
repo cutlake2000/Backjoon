@@ -2,6 +2,8 @@
 // 'plane'
 // https://www.acmicpc.net/problem/8370
 
+#include <stdio.h>
+
 int main(){
     int bn, bk, en, ek;
     bn = bk = en = ek = 0;
