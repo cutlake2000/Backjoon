@@ -18,7 +18,6 @@ int main(){
     for (int i = 0 ; i < h ; i++){
         for (int j = 0 ; j < w ; j++){
             scanf("%1d", &coin[i][j]);
-            
         }
     }
 
