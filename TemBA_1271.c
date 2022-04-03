@@ -24,7 +24,6 @@ int main(){
     
     for(int i = 0 ; i < money_Len ; i++){
         if (money[i] < man[i]){
-            divine_Num(void);
         }
         else{
 
